@@ -1,0 +1,20 @@
+- [Open Education Essentials](open-education-essentials/README.md)
+- What is Open Education?
+  - [Overview](open-education-essentials/what-is-open-education/README.md)
+  - [A Spectrum of Openness](open-education-essentials/what-is-open-education/a-spectrum-of-openness.md)
+  - [Creative Commons Licenses](open-education-essentials/what-is-open-education/creative-commons-licenses.md)
+  - [Getting Started with OER](open-education-essentials/what-is-open-education/getting-started-with-oer.md)
+- Tools for Open Course Design
+  - [Overview](open-education-essentials/tools-for-open-course-design/README.md)
+  - [LMS Embedding](open-education-essentials/tools-for-open-course-design/lms-embedding.md)
+  - [Git Sync – Version-Controlled Content](open-education-essentials/tools-for-open-course-design/git-sync.md)
+  - [Docsify-This for Instant Publishing](open-education-essentials/tools-for-open-course-design/docsify-this.md)
+- Getting Started with Open Authoring
+  - [Overview](open-education-essentials/getting-started-with-open-authoring/README.md)
+  - [Inviting Contributions](open-education-essentials/getting-started-with-open-authoring/inviting-contributions.md)
+  - [Choosing a Git Platform](open-education-essentials/getting-started-with-open-authoring/choosing-a-git-platform.md)
+  - [Maintaining an Open Reader](open-education-essentials/getting-started-with-open-authoring/maintaining-an-open-reader.md)
+- Growing Your Guide
+  - [Overview](open-education-essentials/growing-your-guide/README.md)
+  - [Blogging Alongside Your Guide](open-education-essentials/growing-your-guide/blogging-alongside-your-guide.md)
+  - [When to Move to Helios Open Reader](open-education-essentials/growing-your-guide/when-to-move-to-helios-open-reader.md)
