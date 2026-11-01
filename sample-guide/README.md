@@ -4,11 +4,11 @@
 
 # Sample Guide
 
-A second guide, for trying out the Guides List page
+A second guide, for trying out a site with more than one guide
 
-A sample guide, with placeholder sections and pages copied from the Multi-Section Page example. Together with the **Guides** page (a Guides List page), it shows how a site with more than one guide looks.
+A sample guide, with placeholder sections and pages. Together with the **Guides** page, it shows how a site with more than one guide looks.
 
-To remove this guide, unpublish it or delete its folder (`02.sample-guide`).
+To remove this guide, delete its folder (`sample-guide`) and its card on the Guides page (`home.md`).
 
 [Start Reading](sample-guide/section-one/README.md ":class=button :class=primary")
 

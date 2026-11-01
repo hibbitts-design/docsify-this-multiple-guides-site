@@ -26,7 +26,7 @@ A Practical Guide for Educators
 
 <h2><a href="#/sample-guide/README">Sample Guide</a> <span class="badge">Draft</span></h2>
 
-A second guide, for trying out the Guides List page
+A second guide, for trying out a site with more than one guide
 
 <small>Your Name<br>Draft, 2026</small>
 
