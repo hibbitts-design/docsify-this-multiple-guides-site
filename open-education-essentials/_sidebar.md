@@ -1,3 +1,5 @@
+**Open Education Essentials**
+
 - What is Open Education?
   - [Overview](open-education-essentials/what-is-open-education/README.md)
   - [A Spectrum of Openness](open-education-essentials/what-is-open-education/a-spectrum-of-openness.md)
