@@ -73,7 +73,7 @@ This guide covers the foundational ideas, practical tools, and real-world exampl
 > [!NOTE]
 > This guide is an example of a **Section List** page, for open guides and readers. It shows a card for each section, grouped into parts, and its pages include section labels, Learning Objectives, reading progress, Previous/Next navigation and OER attribution – all set in page settings. The same guide is the example in [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), showing how content can move between the two.
 
-Want to learn more? Read the full [Read Me](../readme) for setup instructions, features, and more.
+Want to learn more? Read the full [Read Me](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/blob/master/README.md) for setup instructions, features, and more.
 
 > [!NOTE]
 > **Reuse this guide**
