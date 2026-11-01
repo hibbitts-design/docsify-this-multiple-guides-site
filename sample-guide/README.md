@@ -1,7 +1,5 @@
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
 
-[← Guides](home.md)
-
 # Sample Guide
 
 A second guide, for trying out a site with more than one guide
