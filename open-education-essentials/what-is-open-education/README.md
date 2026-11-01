@@ -31,7 +31,7 @@ Most LMS platforms store course content in proprietary formats tied to an instit
 
 Open course design addresses this by keeping content in portable, human-readable formats (like Markdown) backed up in version-controlled repositories. The content belongs to you, not the platform.
 
-> [!TIP]
+> [!NOTE]
 > Markdown files stored in a GitHub or Codeberg repository are readable in any text editor and will outlast any platform or vendor.
 
 ## One Step at a Time
