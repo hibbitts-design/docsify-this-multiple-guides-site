@@ -13,4 +13,4 @@ If your site becomes mainly about reading, Helios Open Reader adds:
 - **Several publications on one site**, each with its own home page, gathered on a readers list
 - **A plain-text version of each publication**, for ebook tools, search and other uses
 
-This guide uses the same page settings as Helios Open Reader (subtitle, authors, edition, last updated date, license, section labels, learning objectives and section card details), and the same shortcodes and callouts, so your content can move across with little rework.
+The original version of this guide uses the same page settings as Helios Open Reader (subtitle, authors, edition, last updated date, license, section labels, learning objectives and section card details), and the same shortcodes and callouts, so your content can move across with little rework.

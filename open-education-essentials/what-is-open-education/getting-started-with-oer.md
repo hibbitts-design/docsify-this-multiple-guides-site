@@ -38,7 +38,7 @@ A minimal OER is:
 - Carrying a CC license statement
 - Attributing any sources it draws from
 
-A Grav-based reader with Git Sync satisfies all four criteria by default.
+A Markdown site published from a Git repository, like this one, satisfies all four criteria by default.
 
 ## Building the Habit
 

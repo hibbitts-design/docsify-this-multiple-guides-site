@@ -71,9 +71,9 @@ Blogging alongside your guide, and knowing when to move to Helios Open Reader.
 This guide covers the foundational ideas, practical tools, and real-world examples you need to get started with open educational resources (OER) and open course design.
 
 > [!NOTE]
-> This guide is an example of a **Section List** page, for open guides and readers. It shows a card for each section, grouped into parts, and its pages include section labels, Learning Objectives, reading progress, Previous/Next navigation and OER attribution – all set in page settings. The same guide is the example in [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), showing how content can move between the two.
+> This guide's home page shows a card for each section with the `card-list-sections` card list, and the guide's `_sidebar.md` sets its reading order and its Previous/Next buttons. The same guide is also the example in [Grav Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) and [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), showing how content can move between platforms.
 
-Want to learn more? Read the full [Read Me](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/blob/master/README.md) for setup instructions, features, and more.
+Want to learn more? Read this template's [Read Me](https://github.com/hibbitts-design/docsify-this-multiple-guides-site/blob/main/README.md) for how it's put together, including how to add a guide.
 
 > [!NOTE]
 > **Reuse this guide**

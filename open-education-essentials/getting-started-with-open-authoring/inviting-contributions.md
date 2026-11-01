@@ -14,7 +14,7 @@ This works for all readers – GitHub-savvy or not.
 
 ## The Fork-and-Propose Workflow
 
-When a visitor follows the Git Sync link on a GitHub-hosted reader, unauthenticated users land on a fork-and-propose flow automatically. They don't need a repository invite – GitHub handles the mechanics of creating a fork and opening a pull request.
+When a visitor follows the edit link on a GitHub-hosted reader, unauthenticated users land on a fork-and-propose flow automatically. They don't need a repository invite – GitHub handles the mechanics of creating a fork and opening a pull request.
 
 The result: a low-friction contribution path that scales from individual educators to open textbook communities.
 

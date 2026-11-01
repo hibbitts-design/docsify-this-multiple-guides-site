@@ -7,15 +7,15 @@
 > [!TIP]
 > **Learning Objectives**
 >
-> - Set up the Git Sync link to invite reader contributions
+> - Set up an edit link to invite reader contributions
 > - Compare how GitHub, Codeberg and GitLab handle proposed changes
 > - Describe the fork-and-propose workflow for GitHub visitors
 
 Open authoring closes the loop between publishing content openly and actively inviting others to improve it. The goal isn't just making content readable – it's making it editable.
 
-## The Git Sync Link
+## The Edit Link
 
-This site's theme can add a link to each page that connects visitors directly to its source Markdown file in your Git repository. In the Admin Panel, go to **Themes → My Theme → Git Sync Link** (or the settings of the theme your site uses), set the type to **View/Edit Page in Git Repository**, and choose where the link appears (the menu, the footer or the page).
+Docsify-This can add a link to each page that connects visitors to the site's Markdown files in your Git repository. Add the `edit-link` option to the site's address, set to your repository (for example `&edit-link=https://github.com/your-name/your-repo`), and `edit-link-text` to change the link's label.
 
 A single link serves two audiences:
 
