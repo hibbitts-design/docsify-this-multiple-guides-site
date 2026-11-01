@@ -4,6 +4,8 @@ Open guides on this site
 
 All of the guides on this site, each with its own home page.
 
+Each guide has its own search box, on its reading pages.
+
 <div class="card-list">
 
 <div class="card">
