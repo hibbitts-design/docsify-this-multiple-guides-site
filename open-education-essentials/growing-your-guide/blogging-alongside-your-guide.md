@@ -1,4 +1,4 @@
-[← Growing Your Guide](open-education-essentials/growing-your-guide/README.md)
+[← Open Education Essentials](open-education-essentials/README.md)
 
 # Blogging Alongside Your Guide
 

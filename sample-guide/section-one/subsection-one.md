@@ -1,4 +1,4 @@
-[← Section One](sample-guide/section-one/README.md)
+[← Sample Guide](sample-guide/README.md)
 
 # Subsection One
 

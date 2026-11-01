@@ -1,4 +1,4 @@
-[← Getting Started with Open Authoring](open-education-essentials/getting-started-with-open-authoring/README.md)
+[← Open Education Essentials](open-education-essentials/README.md)
 
 # Maintaining an Open Reader
 

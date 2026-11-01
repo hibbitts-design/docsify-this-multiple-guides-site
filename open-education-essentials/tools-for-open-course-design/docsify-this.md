@@ -1,4 +1,4 @@
-[← Tools for Open Course Design](open-education-essentials/tools-for-open-course-design/README.md)
+[← Open Education Essentials](open-education-essentials/README.md)
 
 # Docsify-This for Instant Publishing
 

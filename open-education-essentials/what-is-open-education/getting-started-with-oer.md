@@ -1,4 +1,4 @@
-[← What is Open Education?](open-education-essentials/what-is-open-education/README.md)
+[← Open Education Essentials](open-education-essentials/README.md)
 
 # Getting Started with OER
 
