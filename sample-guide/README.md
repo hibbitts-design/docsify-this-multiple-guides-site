@@ -1,5 +1,3 @@
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
-
 # Sample Guide
 
 A second guide, for trying out a site with more than one guide
@@ -39,3 +37,6 @@ Section 3
 </div>
 
 Your Name · Draft, 2026
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>

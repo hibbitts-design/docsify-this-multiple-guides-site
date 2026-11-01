@@ -53,7 +53,7 @@ To add a guide:
 4. Add a card for it to `home.md`, linking to its `README.md` – with three or more guides, change `card-list` to `card-list-guides` there for three cards in a row
 
 > [!TIP]
-> Images go in the same folder as the page that shows them. To hide the sidebar on a page, like the guide home pages, copy the `<style>` line at the top of a guide's `README.md`.
+> Images go in the same folder as the page that shows them. To hide the sidebar on a page, like the guide home pages, copy the `<style>` line (and the comment above it) at the end of a guide's `README.md`.
 
 Docsify-This Examples
 ---

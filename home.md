@@ -1,5 +1,3 @@
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
-
 # Guides
 
 Open guides on this site
@@ -33,3 +31,6 @@ A second guide, for trying out a site with more than one guide
 </div>
 
 </div>
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
