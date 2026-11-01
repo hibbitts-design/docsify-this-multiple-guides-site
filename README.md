@@ -36,7 +36,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 Using the ability to change the default values of the Docsify-This Web Page Builder, here are the needed **Sidebar**, **Navbar**, **collapsible Sidebar groups**, **Previous/Next page buttons** and **Search** options already set - just replace the default Markdown file URL for **home.md** with your own! https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-guides-site/blob/main/home.md&sidebar=true&loadSidebar=true&loadNavbar=true&collapsibleSidebarGroups=true&pagination=true&searchbox=true&name=Open%20Publishing%20Space%20Guides
 
-> [!TIP]
+> [!IMPORTANT]
 > To add an edit link, set `edit-link` to your repository (for example `&edit-link=https://github.com/your-name/your-repo`), not to a Markdown file – with a Markdown file, links between the guides stop working.
 
 Add a Guide

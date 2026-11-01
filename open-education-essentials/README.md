@@ -75,7 +75,7 @@ This guide covers the foundational ideas, practical tools, and real-world exampl
 
 Want to learn more? Read this template's [Read Me](https://github.com/hibbitts-design/docsify-this-multiple-guides-site/blob/main/README.md) for how it's put together, including how to add a guide.
 
-> [!NOTE]
+> [!TIP]
 > **Reuse this guide**
 > It's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) – copy it, adapt it and share it, with credit.
 
