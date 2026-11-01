@@ -6,7 +6,7 @@
 
 A Practical Guide for Educators
 
-This site is built with **Grav Open Publishing Space**, made possible by the free [Quark 2 Open Publishing](https://github.com/hibbitts-design/grav-theme-quark2-open-publishing) theme ([Quark Open Publishing](https://github.com/hibbitts-design/grav-theme-quark-open-publishing) on Grav 1.7) and powered by [Grav CMS](https://getgrav.org), the open-source platform it's built on.
+The original site is built with **Grav Open Publishing Space**, made possible by the free [Quark 2 Open Publishing](https://github.com/hibbitts-design/grav-theme-quark2-open-publishing) theme ([Quark Open Publishing](https://github.com/hibbitts-design/grav-theme-quark-open-publishing) on Grav 1.7) and powered by [Grav CMS](https://getgrav.org), the open-source platform it's built on.
 
 This version is published with Docsify-This, from the same Markdown files.
 
