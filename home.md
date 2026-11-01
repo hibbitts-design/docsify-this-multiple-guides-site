@@ -35,4 +35,4 @@ A second guide, for trying out a site with more than one guide
 </div>
 
 <!-- Hides the sidebar on this page -->
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

@@ -80,4 +80,4 @@ Your Name · First Edition, 2026 · Updated Oct 4, 2026
 This work by <a href="#">Your Name</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 
 <!-- Hides the sidebar on this page -->
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
