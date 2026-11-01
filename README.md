@@ -45,6 +45,13 @@ Add a Guide
 - `home.md` – the Guides page, with a card for each guide
 - `open-education-essentials/`, `sample-guide/` – one folder per guide: `README.md` (its home page), a folder per section with its pages, `_sidebar.md` (the reading order, with collapsible section groups) and `_navbar.md`
 
+Each guide follows the same pattern – keep it when you add one:
+
+- `_sidebar.md` lists only the guide's reading order: its sections and their pages, not the guide home
+- Every reading page starts with a link back to its guide home, such as `[← Sample Guide](sample-guide/README.md)`
+- The Guides page and each guide home hide the sidebar, with the `<style>` line (and the comment above it) at the end of the file – copy it to any other page that isn't part of a reading order
+- `_navbar.md` holds the links to the rest of the site, such as All Guides
+
 To add a guide:
 
 1. Copy a guide folder, such as `sample-guide/`, and give it a new name
@@ -53,7 +60,7 @@ To add a guide:
 4. Add a card for it to `home.md`, linking to its `README.md` – with three or more guides, change `card-list` to `card-list-guides` there for three cards in a row
 
 > [!TIP]
-> Images go in the same folder as the page that shows them. To hide the sidebar on a page, like the guide home pages, copy the `<style>` line (and the comment above it) at the end of a guide's `README.md`.
+> Images go in the same folder as the page that shows them.
 
 Docsify-This Examples
 ---
