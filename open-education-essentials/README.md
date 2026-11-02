@@ -1,14 +1,30 @@
+<div class="guide-cover">
+
+![Open Education Essentials cover](viktor-forgacs-click-LNwIJHUtED4-unsplash.jpg ":no-zoom")
+
+<div>
+
 # Open Education Essentials
 
 A Practical Guide for Educators
+
+Your Name
+
+<small>First Edition, 2026 · Updated Oct 4, 2026</small>
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
+
+[Start Reading](open-education-essentials/what-is-open-education/README.md ":class=button :class=primary")
+
+</div>
+
+</div>
 
 The original site is built with **Grav Open Publishing Space**, made possible by the free [Quark 2 Open Publishing](https://github.com/hibbitts-design/grav-theme-quark2-open-publishing) theme ([Quark Open Publishing](https://github.com/hibbitts-design/grav-theme-quark-open-publishing) on Grav 1.7) and powered by [Grav CMS](https://getgrav.org), the open-source platform it's built on.
 
 This version is published with Docsify-This, from the same Markdown files.
 
 Here's an example guide to explore and build on: **Open Education Essentials** – a short, practical guide to understanding and applying open education principles in your teaching practice.
-
-[Start Reading](open-education-essentials/what-is-open-education/README.md ":class=button :class=primary")
 
 <div class="card-list-sections">
 
@@ -74,8 +90,6 @@ Want to learn more? Read this template's [Read Me](https://github.com/hibbitts-d
 > [!TIP]
 > **Reuse this guide**
 > It's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) – copy it, adapt it and share it, with credit.
-
-Your Name · First Edition, 2026 · Updated Oct 4, 2026
 
 This work by <a href="#">Your Name</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 

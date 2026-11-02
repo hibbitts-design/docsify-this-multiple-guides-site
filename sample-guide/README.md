@@ -1,12 +1,26 @@
+<div class="guide-cover">
+
+![Bare, reddish-brown mountains under a clear sky](mountain.jpg ":no-zoom")
+
+<div>
+
 # Sample Guide
 
 A second guide, for trying out a site with more than one guide
 
+Your Name
+
+<small>Draft, 2026</small>
+
+[Start Reading](sample-guide/section-one/README.md ":class=button :class=primary")
+
+</div>
+
+</div>
+
 A sample guide, with placeholder sections and pages. Together with the **Guides** page, it shows how a site with more than one guide looks.
 
 To remove this guide, delete its folder (`sample-guide`) and its card on the Guides page (`home.md`).
-
-[Start Reading](sample-guide/section-one/README.md ":class=button :class=primary")
 
 <div class="card-list-sections">
 
@@ -35,8 +49,6 @@ Section 3
 </div>
 
 </div>
-
-Your Name · Draft, 2026
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
