@@ -50,7 +50,7 @@ Each guide follows the same pattern – keep it when you add one:
 - `_sidebar.md` starts with the guide's name in bold, as `**Guide Name**` (not a link), then lists only its reading order: its sections and their pages, not the guide home
 - Every reading page starts with a link back to its guide home, such as `[← Sample Guide](sample-guide/README.md)`
 - The Guides page and each guide home hide the sidebar, with the `<style>` line (and the comment above it) at the end of the file – copy it to any other page that isn't part of a reading order
-- `_navbar.md` holds the links to the rest of the site, such as All Guides
+- `_navbar.md` starts with the site's name as its title, `- [Site Name](home.md ":class=site-title")` (shown at the top of pages without the sidebar, and on phones), then the links to the rest of the site, such as All Guides
 
 To add a guide:
 

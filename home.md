@@ -1,6 +1,4 @@
-# Guides
-
-Open guides on this site
+# Open Publishing Space Guides
 
 All of the guides on this site, each with its own home page.
 
