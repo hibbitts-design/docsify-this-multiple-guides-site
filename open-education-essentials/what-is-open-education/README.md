@@ -2,7 +2,7 @@
 
 # What is Open Education?
 
-<small>Section 1</small>
+Section 1
 
 > [!TIP]
 > **Learning Objectives**

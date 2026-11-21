@@ -2,7 +2,7 @@
 
 # Getting Started with Open Authoring
 
-<small>Section 3</small>
+Section 3
 
 > [!TIP]
 > **Learning Objectives**
