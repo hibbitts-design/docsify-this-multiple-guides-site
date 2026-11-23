@@ -8,7 +8,7 @@ Each guide has its own search box, on its reading pages.
 
 <div class="card">
 
-[![Open Education Essentials](open-education-essentials/viktor-forgacs-click-LNwIJHUtED4-unsplash.jpg ":no-zoom")](open-education-essentials/README.md)
+![](open-education-essentials/viktor-forgacs-click-LNwIJHUtED4-unsplash.jpg ":no-zoom")
 
 ## [Open Education Essentials](open-education-essentials/README.md) <!-- {docsify-ignore} -->
 
@@ -20,7 +20,7 @@ A Practical Guide for Educators
 
 <div class="card">
 
-[![Bare, reddish-brown mountains under a clear sky](sample-guide/mountain.jpg ":no-zoom")](sample-guide/README.md)
+![Bare, reddish-brown mountains under a clear sky](sample-guide/mountain.jpg ":no-zoom")
 
 ## [Sample Guide](sample-guide/README.md) <span class="badge">Draft</span> <!-- {docsify-ignore} -->
 
