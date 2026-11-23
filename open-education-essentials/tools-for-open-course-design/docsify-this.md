@@ -1,4 +1,4 @@
-[← Open Education Essentials](open-education-essentials/README.md)
+[← Open Education Essentials](/open-education-essentials/README.md)
 
 # Docsify-This for Instant Publishing
 

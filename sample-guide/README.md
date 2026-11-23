@@ -12,7 +12,7 @@ Your Name
 
 <small>Draft, 2026</small>
 
-[Start Reading](sample-guide/section-one/README.md ":class=button :class=primary")
+[Start Reading](/sample-guide/section-one/README.md ":class=button :class=primary")
 
 </div>
 
@@ -28,7 +28,7 @@ To remove this guide, delete its folder (`sample-guide`) and its card on the Gui
 
 Section 1
 
-<h2><a href="#/sample-guide/section-one/README">Section One</a></h2>
+## [Section One](/sample-guide/section-one/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
@@ -36,7 +36,7 @@ Section 1
 
 Section 2
 
-<h2><a href="#/sample-guide/section-two/README">Section Two</a></h2>
+## [Section Two](/sample-guide/section-two/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
@@ -44,13 +44,13 @@ Section 2
 
 Section 3
 
-<h2><a href="#/sample-guide/section-three/README">Section Three</a></h2>
+## [Section Three](/sample-guide/section-three/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 </div>
 
-**[Start Reading →](sample-guide/section-one/README.md)**
+**[Start Reading →](/sample-guide/section-one/README.md)**
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

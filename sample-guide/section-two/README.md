@@ -1,4 +1,4 @@
-[← Sample Guide](sample-guide/README.md)
+[← Sample Guide](/sample-guide/README.md)
 
 # Section Two
 

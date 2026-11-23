@@ -48,14 +48,14 @@ Add a Guide
 Each guide follows the same pattern – keep it when you add one:
 
 - `_sidebar.md` starts with the guide's name in bold, as `**Guide Name**` (not a link), then lists only its reading order: its sections and their pages, not the guide home
-- Every reading page starts with a link back to its guide home, such as `[← Sample Guide](sample-guide/README.md)`
+- Every reading page starts with a link back to its guide home, such as `[← Sample Guide](/sample-guide/README.md)`
 - The Guides page and each guide home hide the sidebar, with the `<style>` line (and the comment above it) at the end of the file – copy it to any other page that isn't part of a reading order
 - `_navbar.md` starts with the site's name as its title, `- [Site Name](home.md ":class=site-title")` (shown at the top of pages without the sidebar, and on phones), then the links to the rest of the site, such as All Guides
 
 To add a guide:
 
 1. Copy a guide folder, such as `sample-guide/`, and give it a new name
-2. In all of its Markdown files, change `sample-guide/` in the links to the new folder name (links start from the site's top folder)
+2. In all of its Markdown files, change `sample-guide/` in the links to the new folder name (links start from the site's top folder – the ones beginning with `/` also work when browsing the repository on GitHub)
 3. Edit its `README.md` (the guide home page and its section cards), its pages, and its `_sidebar.md` (the reading order)
 4. Add a card for it to `home.md`, linking to its `README.md` – with three or more guides, change `card-list` to `card-list-guides` there for three cards in a row
 
