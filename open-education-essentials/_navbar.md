@@ -1,2 +1,1 @@
 - [Open Publishing Space Guides](home.md ":class=site-title")
-- [All Guides](home.md)
