@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Getting Started with Open Authoring
 
 Section 3

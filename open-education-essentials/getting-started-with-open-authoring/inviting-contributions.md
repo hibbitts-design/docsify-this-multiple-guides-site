@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Inviting Contributions
 
 Publishing content openly is the first step. Actively inviting others to improve it closes the loop.

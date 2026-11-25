@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # What is Open Education?
 
 Section 1

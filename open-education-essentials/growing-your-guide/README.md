@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Growing Your Guide
 
 Section 4

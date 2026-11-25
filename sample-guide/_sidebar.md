@@ -1,4 +1,4 @@
-**Sample Guide**
+[**Sample Guide**](sample-guide/README.md)
 
 - Section One
   - [Overview](sample-guide/section-one/README.md)

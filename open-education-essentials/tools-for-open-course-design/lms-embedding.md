@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # LMS Embedding
 
 One of the practical advantages of web-first course content is the ability to embed it directly inside your LMS – without giving up ownership of the content or the URL.

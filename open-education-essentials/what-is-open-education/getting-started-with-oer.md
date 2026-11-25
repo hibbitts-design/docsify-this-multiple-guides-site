@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Getting Started with OER
 
 You don't need to build a complete open textbook to get started with OER. The most sustainable approach is to start small, build habits, and expand from there.

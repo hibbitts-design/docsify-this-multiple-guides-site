@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Maintaining an Open Reader
 
 Publishing a reader is a beginning, not an end. The durability of open content comes from treating it as a living document – updated regularly, improved by its readers, and versioned transparently.

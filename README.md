@@ -47,9 +47,8 @@ Add a Guide
 
 Each guide follows the same pattern – keep it when you add one:
 
-- `_sidebar.md` starts with the guide's name in bold, as `**Guide Name**` (not a link), then lists only its reading order: its sections and their pages, not the guide home
-- Every reading page starts with a link back to its guide home, such as `[← Sample Guide](/sample-guide/README.md)`
-- The Guides page and each guide home hide the sidebar, with the `<style>` line (and the comment above it) at the end of the file – copy it to any other page that isn't part of a reading order
+- `_sidebar.md` starts with the guide's name in bold, linked to its home, as `[**Guide Name**](guide-name/README.md)` – the way back from any of its pages – then lists only its reading order: its sections and their pages, not the guide home
+- The Guides page and each guide home hide the sidebar, with the `<style>` line (and the comment above it) at the end of the file – copy it to any other page that isn't part of a reading order, with a link back to its guide home at the top, such as `[← Sample Guide](/sample-guide/README.md)`, since it has no sidebar
 - `_navbar.md` starts with the site's name as its title, `- [Site Name](home.md ":class=site-title")` (shown at the top of pages without the sidebar, and on phones, and linking to the Guides page), then any links to the guide's own pages, such as a Glossary
 
 To add a guide:
@@ -59,7 +58,7 @@ To add a guide:
 3. Edit its `README.md` (the guide home page and its section cards), its pages, and its `_sidebar.md` (the reading order)
 4. Add a card for it to `home.md`, linking to its `README.md` – with three or more guides, change `card-list` to `card-list-guides` there for three cards in a row
 
-To share one guide on its own, add `&name-link=` with its home page to the site's address, and open it there – for example `&name-link=sample-guide/README#/sample-guide/README`. The site's name then leads to that guide's home, and its back links are hidden.
+To share one guide on its own, add `&name-link=` with its home page to the site's address, and open it there – for example `&name-link=sample-guide/README#/sample-guide/README`. The site's name then leads to that guide's home.
 
 > [!TIP]
 > Images go in the same folder as the page that shows them.

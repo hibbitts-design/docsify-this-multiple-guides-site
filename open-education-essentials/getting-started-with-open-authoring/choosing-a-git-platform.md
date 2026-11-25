@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Choosing a Git Platform
 
 The Git platform you choose affects how contributors interact with your reader and how your content is discovered. All three major platforms support the fork-and-propose workflow, but with meaningful differences.

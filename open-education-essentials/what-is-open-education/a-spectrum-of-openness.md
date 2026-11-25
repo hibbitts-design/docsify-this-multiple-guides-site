@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # A Spectrum of Openness
 
 Open education isn't all-or-nothing. You can start by making one module of your course openly accessible, or by publishing your syllabus as a public Markdown file. Every step toward openness makes your content more durable and more useful to others.

@@ -1,4 +1,4 @@
-**Open Education Essentials**
+[**Open Education Essentials**](open-education-essentials/README.md)
 
 - What is Open Education?
   - [Overview](open-education-essentials/what-is-open-education/README.md)

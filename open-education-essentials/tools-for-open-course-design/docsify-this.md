@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Docsify-This for Instant Publishing
 
 [Docsify-This](https://docsify-this.net) solves a specific problem: you have a Markdown file in a public repository and you want to share it as a readable, styled web page – right now.

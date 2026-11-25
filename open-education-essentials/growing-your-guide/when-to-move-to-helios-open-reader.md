@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # When to Move to Helios Open Reader
 
 The two projects differ in what the site is for:

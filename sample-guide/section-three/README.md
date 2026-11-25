@@ -1,5 +1,3 @@
-[← Sample Guide](/sample-guide/README.md)
-
 # Section Three
 
 Section 3

@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Creative Commons Licenses
 
 Creative Commons licenses are the practical mechanism behind most open educational resources. They let you specify exactly which permissions you're granting – without requiring individual negotiations with each user.

@@ -1,5 +1,3 @@
-[← Open Education Essentials](/open-education-essentials/README.md)
-
 # Git Sync – Version-Controlled Content
 
 Git Sync turns your Grav pages folder into a version-controlled repository. Every save in the Admin Panel becomes a commit. Every commit in your repository becomes a page update.
